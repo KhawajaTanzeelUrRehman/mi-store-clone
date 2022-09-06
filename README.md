@@ -1,6 +1,6 @@
-# Link for the website
+# website Link
 
-https://mistroe-clone-by-tanzeelurrehman.netlify.app/
+https://mistore-clone-by-tanzeelurrehman.netlify.app/
 
 # Getting Started with Create React App
 
