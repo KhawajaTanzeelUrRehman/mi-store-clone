@@ -1,4 +1,4 @@
-# website Link
+# Website Link
 
 https://mistore-clone-by-tanzeelurrehman.netlify.app/
 
