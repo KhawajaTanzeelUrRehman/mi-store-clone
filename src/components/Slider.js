@@ -5,7 +5,7 @@ const Slider = ({ start }) => {
     return (
         <Carousel fade>
             {start.map((item, index) => (
-                <Carousel.Item>
+                <Carousel.Item key={item} >
                     <img className='d-block w-100' src={item} alt={`Slide # ${index}`} />
                 </Carousel.Item>
 
